@@ -33,6 +33,10 @@ les balises sémantiques se sont des balises qui structures la page html d'une m
 9_ le role de gap en css : 
     s utilise avec flex pour faire de l espace entre les element 
 
+10_ que font justify-content: center;   / align-items: center;
+    justify-content: center;    aligner horizontalement
+    align-items: center;        aligner verticalement 
+
 __________________________________________________________________________________________________________
 
 

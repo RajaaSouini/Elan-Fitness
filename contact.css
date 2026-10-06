@@ -1,5 +1,14 @@
 .form-contact {
-  display: flex;
-  flex-direction: column; 
-  gap: 15px;              /* Ajoute de l'espace entre chaque élément */
+display: flex;
+flex-direction: column; 
+gap: 15px;              /* Ajoute de l'espace entre chaque élément */
+
+
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+
+}
+.titre-contact{
+    
 }
