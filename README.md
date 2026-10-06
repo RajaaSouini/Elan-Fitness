@@ -1,3 +1,29 @@
+Des questions réponses : 
+1_ qu 'est ce qu'une balise sémantique : 
+les balises sémantiques se sont des balises qui structures la page html d'une manière clair 
+        <header></header> /  <footer></footer>  / <nav></nav> / <section></section> ...
+
+2_ quelles sont les types de balises :
+     il existe des balses avec une d'ouverture et autre de fermeture tel que <p></p>
+        et il y a d'autre avec juste une d ouverture et la fermeture auto comme <img>
+
+3_ quel est le role de <!DOCTYPE html>
+    on le met dans le debut  pour savoir qu'on est dans un fichier html 
+
+4_ le role de class et id :
+    pour appliquer un style sur une balise en utilise class ou id 
+    on appelle class par . et id par #
+    pls balises peuvent avoir le meme class ms l id est unique 
+
+5_ comment peut on implementer du css dans la page html 
+    utiliser l attribut style dans la balise
+    utiliser la balyse style dans head 
+    utiliser un fichier externe et le lier avec <link rel="stylesheet" href="style.css">
+
+
+__________________________________________________________________________________________________________
+
+
 1- Dans l'analyse du site , je constate qu 'il contient :
 
 Une seule page et la navigation se fait dans la meme page , ou il y a differentes parties :
@@ -25,23 +51,10 @@ Et je vais ajouter une page contact
     #EAECF0
 
 
-Quelques fonctionnalités utilisés : 
 
-    ./accueil.html    dans les liens <a href="">   pour naviguer entre les pages 
-    <li><a href="./accueil.html" class="lien-actif">Accueil</a></li>    j ai utlisé cette classe (class="lien-actif" ) dans les autres pages pou que 
-    le style soit appliqué sur la page dont laquelle on est 
 
-    il existe dans le projet des fichiers html et un fichier css qui applique le style sur tout le projet on l appel par <link rel="stylesheet" href="style.css">
-    pour appliquer un style sur une balise en utilise class ou id 
-    on appelle class par . et id par #
-    
 
-les balises : 
-        il existe des balses avec une d'ouverture et autre de fermeture tel que <p></p>
-        et il y a d'autre avec juste une d ouverture et la fermeture auto comme <img>
 
-        les balises sémantiques se sont des balises qui structures la page html d'une manière clair 
-        <header></header> /  <footer></footer>  / <nav></nav> / <section></section> ...
 
 
 
