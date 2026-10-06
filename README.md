@@ -40,6 +40,11 @@ les balises :
         il existe des balses avec une d'ouverture et autre de fermeture tel que <p></p>
         et il y a d'autre avec juste une d ouverture et la fermeture auto comme <img>
 
+        les balises sémantiques se sont des balises qui structures la page html d'une manière clair 
+        <header></header> /  <footer></footer>  / <nav></nav> / <section></section> ...
+
+
+
 
 
 
