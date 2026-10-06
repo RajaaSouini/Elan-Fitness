@@ -27,6 +27,11 @@ les balises sémantiques se sont des balises qui structures la page html d'une m
 7_ a quoi sert height and width ?
     pour choisir la longueur et la largeur d un element 
 
+8_ comment peut on rendre des element vertical en css :
+    en utilisant flexbox , display : flex / flex-direction : column pour le rendre vertical
+
+9_ le role de gap en css : 
+    s utilise avec flex pour faire de l espace entre les element 
 
 __________________________________________________________________________________________________________
 
