@@ -1,6 +1,6 @@
 .form-contact {
 background-color:#233D4D;
-margin:200px;
+margin:100px auto;
 display: flex;
 flex-direction: column; 
 gap: 15px;  
@@ -11,32 +11,45 @@ align-items: center;
 min-height: 70vh;
 max-width: 100vh;
 
+border-radius: 100px 20px;
+
 }
 
-#input-name{
-    width: 300px;
+.input-name{
+    width: 400px;
     height: 30px;
     border-radius: 10px 0 10px 0 ;
     padding: 10px;
-    border-color: #FE7F2D;
+    border: #FE7F2D 3px solid;
 
 }
 
 #input-msg{
-    width: 300px;
+    width: 400px;
     height: 40px;
     border-radius: 10px 0 10px 0 ;
     padding: 10px ;
-    border-color: #FE7F2D;
+    border: #FE7F2D 3px solid;
 }
 button{
     margin-top: 40px;
     width: 100px;
     height: 30px;
     border-radius: 20px;
-    border-color: #FE7F2D;
+    border: #FE7F2D 3px solid;
 }
 
 #contact-nous{
     color: #EAECF0 ;
+    padding-bottom: 70px;
+    font-size: 30px;
+}
+label{
+    color: #EAECF0;
+    font-size: large;
+}
+.input-div{
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
 }
