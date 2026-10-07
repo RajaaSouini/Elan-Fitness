@@ -1,5 +1,7 @@
 .form-contact {
-background-color:#233D4D;
+/*background-color:#233D4D;*/
+background-image: url(./img/musculation.jpg);
+
 margin:100px auto;
 display: flex;
 flex-direction: column; 
@@ -33,25 +35,28 @@ border-radius: 100px 20px;
 }
 button{
     margin-top: 40px;
-    width: 100px;
-    height: 30px;
-    border-radius: 20px;
-    border: #FE7F2D 3px solid;
 }
 
 #contact-nous{
-    color: #EAECF0 ;
-    padding-bottom: 70px;
+    color:  #000000 ;
+    margin-bottom: 70px;
+    padding: 10px;
+    border-radius: 10px;
     font-size: 30px;
+    background-color: #f7f7f8;
+
 }
 label{
-    color: #EAECF0;
+    color:  #000000;
     font-size: large;
 }
 .input-div{
     display: flex;
     flex-direction: column;
     gap: 13px;
+    background-color: #EAECF0 ;
+    padding: 10px;
+    border-radius: 10px;
 }
 #local-map{
     display: flex;
