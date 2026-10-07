@@ -21,7 +21,7 @@ les balises sémantiques se sont des balises qui structures la page html d'une m
     utiliser un fichier externe et le lier avec <link rel="stylesheet" href="style.css">
 
 6_ comment peut on inserer une image : 
-    <img src="./img/logo elanfitness.png" >    la balise img , et on met le lien dans l attribut src 
+    <img src="./img/logologo.png" >    la balise img , et on met le lien dans l attribut src 
     il y a un autre attribut alt dans lequel on peut ecrire comme une description de l image 
 
 7_ a quoi sert height and width ?
