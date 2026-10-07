@@ -1,14 +1,42 @@
 .form-contact {
+background-color:#233D4D;
+margin:200px;
 display: flex;
 flex-direction: column; 
-gap: 15px;              /* Ajoute de l'espace entre chaque élément */
-
+gap: 15px;  
+            /* Ajoute de l'espace entre chaque élément */
 
 justify-content: center;
 align-items: center;
-min-height: 100vh;
+min-height: 70vh;
+max-width: 100vh;
 
 }
-.titre-contact{
-    
+
+#input-name{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px 0 10px 0 ;
+    padding: 10px;
+    border-color: #FE7F2D;
+
+}
+
+#input-msg{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px 0 10px 0 ;
+    padding: 10px ;
+    border-color: #FE7F2D;
+}
+button{
+    margin-top: 40px;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border-color: #FE7F2D;
+}
+
+.titre-form{
+    color: #EAECF0;
 }

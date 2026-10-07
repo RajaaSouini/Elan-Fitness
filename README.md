@@ -36,6 +36,42 @@ les balises sémantiques se sont des balises qui structures la page html d'une m
 10_ que font justify-content: center;   / align-items: center;
     justify-content: center;    aligner horizontalement
     align-items: center;        aligner verticalement 
+11_ qu est ce que les méthodes agiles ? 
+    une méthode agile c'est une méthode de gestion de projet (flexibilité - collaboration - suivi - itérations )
+
+12_ pourquoi ne pas utiliser les méthodes traditionnelles :
+    dans les méthodes traditionnelles la planification se fait au début et la livraison à la fin
+    donc il y a un manque de flexibilité ce qui empechera des problemes des fois grave et difficile à résoudre
+
+13_ qu 'est ce qu escrum ? 
+    Il existe plusieurs framework de l'agile (xp , kanban , safe .. ) scrum est l'un des frameworks avec lequel 
+    on execute les princies de l'agilité
+
+14_ quelles sont les roles de scrum ? 
+    product owner , scrum master , developpement team 
+
+15_ quel est le role du product owner ? 
+    Il est parfait en technique et c'est celui l'intérmediaire entre l'équipe et le client , il est aussi
+    présent en cas de bloquage 
+
+16_ quel est le role du scrum master ? 
+    c'est le resonsable de l'équipe , il gère l'avancement et assigne les résponsabilité , mais partie technique 
+    il n'a pas la partie technique 
+
+17_ types de reunion : 
+    daily scrum : meet qui se fait d'une manière quotidienne avec le scrum master et dure presque 15 min 
+    sprint review : se fait à la fin de chaque sprint pour voir l'amélioration et les faiblesses du sprint précédant
+    sprint retrospective : à la fin de chaque sprint pour voir les problemes entre l'équipe et les régler
+
+18_ qu est ce que les artefacts : 
+    product backlog : ensemble de fonctionnalités redigé par le PO sous forme de user stories
+    sprint backlog : ensemble choisi à partir du product backlog 
+    increment : ce qui est done 
+
+19_ qu est ce que user storie ? 
+    c est une phrase qui exprime une fonctionnalité et s'écrit sous cette forme (en tant que .... afin de ......)
+
+
 
 __________________________________________________________________________________________________________
 
