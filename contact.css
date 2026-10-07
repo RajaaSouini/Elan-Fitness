@@ -1,20 +1,27 @@
+#form-section { 
+    background-image: url("./img/musculation.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60% ;
+    padding: 80px 0; 
+    border-radius :400px 0  ;
+   
+}
+
 .form-contact {
-/*background-color:#233D4D;*/
-background-image: url(./img/musculation.jpg);
+    background-color: #EAECF0;
 
-margin:100px auto;
-display: flex;
-flex-direction: column; 
-gap: 15px;  
-            /* Ajoute de l'espace entre chaque élément */
+    width: 600px;
+    margin: 0 auto;
+    padding: 50px;
 
-justify-content: center;
-align-items: center;
-min-height: 70vh;
-max-width: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
 
-border-radius: 100px 20px;
-
+    border-radius: 100px 20px;
 }
 
 .input-name{
@@ -43,7 +50,6 @@ button{
     padding: 10px;
     border-radius: 10px;
     font-size: 30px;
-    background-color: #f7f7f8;
 
 }
 label{
@@ -54,7 +60,7 @@ label{
     display: flex;
     flex-direction: column;
     gap: 13px;
-    background-color: #EAECF0 ;
+
     padding: 10px;
     border-radius: 10px;
 }
