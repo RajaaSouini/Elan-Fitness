@@ -101,6 +101,7 @@ Et je vais ajouter une page contact
     #233D4D
     #FE7F2D
     #EAECF0
+    rgb(8, 8, 153)
 
 
 

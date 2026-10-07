@@ -12,13 +12,16 @@ body {
   font-family: 'Inter', Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #1F2937;
+  color: #233D4D;
   background-color: #F7F8FA;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h4 {
   font-family: 'Poppins', Arial, sans-serif;
-  color: #0F1B2D;
+  color: #233D4D;
+}
+h3{
+  color:  rgb(8, 8, 153);
 }
 
 a {
@@ -417,7 +420,7 @@ button:focus-visible {
   border-top: 1px solid #E5E7EB;
   font-size: 13px;
   font-weight: 600;
-  color: #0F1B2D;
+  color: rgb(8, 8, 153);
 }
 
 .programme-corps h3 + p {
@@ -456,7 +459,8 @@ button:focus-visible {
   font-family: 'Inter', Arial, sans-serif;
   font-size: 16px;
   font-weight: 500;
-  color: #4B5563;
+  color:  rgb(8, 8, 153)
+;
 }
 
 .prix-note {
@@ -505,7 +509,7 @@ button:focus-visible {
 
 .pied-de-page {
   padding: 48px 0 32px;
-  background-color: #0F1B2D;
+  background-color: #233D4D;
   color: #FFFFFF;
 }
 
