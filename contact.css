@@ -7,7 +7,27 @@
     border-radius :400px 0  ;
    
 }
+.cartes{
+    display: flex;
+}
 
+@media (min-width : 768px){
+    #form-section{
+        background-image: url("./img/musculation.jpg");
+        background-size: auto;
+    }
+}
+@media (min-width : 600px){
+    #form-section{
+        background-image: url("./img/musculation.jpg");
+        background-size: auto;
+    }
+}
+@media (max-width : 600px){
+    .cartes{
+        flex-direction: column;
+    }
+}
 .form-contact {
     background-color: #EAECF0;
 
