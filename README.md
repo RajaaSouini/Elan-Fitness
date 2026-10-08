@@ -70,6 +70,18 @@ les balises sémantiques se sont des balises qui structures la page html d'une m
 
 19_ qu est ce que user storie ? 
     c est une phrase qui exprime une fonctionnalité et s'écrit sous cette forme (en tant que .... afin de ......)
+_________________________________________________________________________
+20_ qu est ce que SEO ? 
+    search engine optimization , des techniques visant à améliorer la visibilité d'un site dans les résultats des moteurs de recherches . 
+21_ Les piliers de SEO : 
+Technique : la vitesse du site et l'adaptation au mobile 
+contenu : UX / UI , les mots clés et le balisage sémantiques
+
+22_ qu 'est ce que UX/UI :
+UX user experience , désigne l'experience de l'utilisateur dans le site 
+s'elle était simple ou compliqué , UI user interface c'est tout ce qui est design (visuelle) , le choix des couleurs et texte .. 
+
+23_ media query : on utlise media query pour adapter notre site à plusieurs type d'écran(dimension d'écran ) pour qu'il soit responsive 
 
 
 
