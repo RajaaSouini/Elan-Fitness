@@ -581,7 +581,6 @@ button:focus-visible {
   animation-play-state: paused;
 }
 
-
 @keyframes rouleInfiniment {
   0% {
     transform: translateX(0);
