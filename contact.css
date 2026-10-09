@@ -7,7 +7,7 @@
     border-radius :400px 0  ;
    
 }
-.cartes{
+.carte-container{
     display: flex;
 }
 
@@ -23,10 +23,15 @@
         background-size: auto;
     }
 }
+
 @media (max-width : 600px){
-    .cartes{
+    .carte-container{
         flex-direction: column;
     }
+    .carte-pre , .carte-deu , .carte-trois{
+        margin: 10px auto;
+    }
+    
 }
 .form-contact {
     background-color: #EAECF0;
@@ -136,5 +141,16 @@ input:focus {
 
 input:hover {
   border-color: #888;
+}
+.carte-container{
+    display: flex;
+    justify-content: space-around;
+}
+.carte-pre , .carte-deu , .carte-trois{
+    background-color: #EAECF0;
+    box-shadow: 0 8px 32px 0 #FE7F2D;
+    padding: 40px;
+    border-radius: 30px;
+    width: 300px;
 }
 
