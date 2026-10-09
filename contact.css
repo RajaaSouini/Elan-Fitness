@@ -127,3 +127,14 @@ h2{
     display: flex;
     justify-content:space-around;
 }
+
+input:focus {
+  outline: none; 
+  border-color:  #233D4D;
+  box-shadow: 0 0 5px rgba(0, 102, 204, 0.3);
+}
+
+input:hover {
+  border-color: #888;
+}
+
