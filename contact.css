@@ -91,8 +91,39 @@ label{
     align-items: center;
     margin-top: 100px;
     background-color: #EAECF0 ; 
+    /*
+    
+    animation-name: myAnimation;
+    animation-duration:5s ;*/
     padding: 100px;
 }
+/*
+@keyframes myAnimation {
+    from{background-color:#EAECF0 ;}
+    to{background-color: #FE7F2D;}
+}*/
 h2{
     font-size: 20px;
+}
+.anima {
+    width: 100px; 
+    height: 100px;
+    background-color: #FE7F2D;
+    position: relative;
+    animation-name: myAnimation;
+    animation-duration: 5s;
+    animation-fill-mode: forwards; 
+  
+}
+
+@keyframes myAnimation {
+    0%   {background-color: rgba(0, 0, 0, 0); left:0px; top:0px; opacity: 1; visibility: visible;}
+    25%  {background-color: #FE7F2D; left:200px; top:0px;}
+    50%  {background-color: rgba(0, 0, 0, 0); left:200px; top:200px;}
+    75%  {background-color: #FE7F2D; left:0px; top:200px; opacity: 1;}
+    100% {background-color: rgba(0, 0, 0, 0); left:0px; top:0px; opacity: 0; visibility: hidden;}
+}
+.anima-conteneur{
+    display: flex;
+    justify-content:space-around;
 }
