@@ -560,6 +560,7 @@ button:focus-visible {
 
 .diaporama-container {
   width: 100%;
+  height: 150px;
   background: #f4f4f4;
   padding: 20px 0;
 }
@@ -572,6 +573,7 @@ button:focus-visible {
 
 .diaporama-roule img {
   height: 120px;
+  width: auto;
   border-radius: 8px;
 }
 
