@@ -558,3 +558,34 @@ button:focus-visible {
 
 
 
+.diaporama-container {
+  width: 100%;
+  background: #f4f4f4;
+  padding: 20px 0;
+}
+
+.diaporama-roule {
+  display: flex;
+  gap: 20px;         
+  animation: rouleInfiniment 15s linear infinite;
+}
+
+.diaporama-roule img {
+  height: 120px;
+  border-radius: 8px;
+}
+
+.diaporama-container:hover .diaporama-roule {
+  animation-play-state: paused;
+}
+
+
+@keyframes rouleInfiniment {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
