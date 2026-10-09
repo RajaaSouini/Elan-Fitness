@@ -1,5 +1,4 @@
 #form-section { 
-    background-image: url("./img/musculation.jpg"); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: 60% ;
@@ -11,18 +10,6 @@
     display: flex;
 }
 
-@media (min-width : 768px){
-    #form-section{
-        background-image: url("./img/musculation.jpg");
-        background-size: auto;
-    }
-}
-@media (min-width : 600px){
-    #form-section{
-        background-image: url("./img/musculation.jpg");
-        background-size: auto;
-    }
-}
 
 @media (max-width : 600px){
     .carte-container{
@@ -47,6 +34,7 @@
     align-items: center;
 
     border-radius: 100px 20px;
+    box-shadow: 0 0 100px rgba(0, 102, 204, 0.3) ;
 }
 
 .input-name{

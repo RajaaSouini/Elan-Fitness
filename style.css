@@ -591,3 +591,11 @@ button:focus-visible {
   }
 }
 
+.cartes{
+  display: flex;
+}
+@media (max-width : 600px){
+  .cartes{
+    flex-direction: column;
+  }
+}
