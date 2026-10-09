@@ -83,8 +83,11 @@ s'elle était simple ou compliqué , UI user interface c'est tout ce qui est des
 
 23_ media query : on utlise media query pour adapter notre site à plusieurs type d'écran(dimension d'écran ) pour qu'il soit responsive 
 
-
-
+24_ Précise la différence entre zoning , wireframes , mockups et prototype :
+    zoning : Organiser l espace en grands blocs , sans aucun détail graphique.
+    Wireframe : se difère du zoning par définir la hiérarchie de l'emplacement de chaque élément 
+    Mockup : présente l'aspect visuelle définitive 
+    Prototype : comme mockup mais il simule l'expérience du site au user 
 __________________________________________________________________________________________________________
 
 
